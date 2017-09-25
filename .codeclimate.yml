@@ -32,3 +32,5 @@ exclude_paths:
 ratings:
   paths:
     - lib/**/*.rb
+    
+    
